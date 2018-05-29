@@ -1,0 +1,51 @@
+I hereby claim:
+
+  * I am an admin of https://peikos.net
+  * I am peikos (https://keybase.io/peikos) on keybase.
+  * I have a public key ASD-SA9MWjsqJrZNdTLY4f51vm1677XawZ5DafVYgLjo8go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fe480f4c5a3b2a26b64d7532d8e1fe75be6d7aefb5dac19e4369f55880b8e8f20a",
+      "host": "keybase.io",
+      "kid": "0120fe480f4c5a3b2a26b64d7532d8e1fe75be6d7aefb5dac19e4369f55880b8e8f20a",
+      "uid": "e8e6c1b9478e5f3685c2e84dda39a419",
+      "username": "peikos"
+    },
+    "merkle_root": {
+      "ctime": 1512639455,
+      "hash": "891309477637052d1a50fc5ea1fde9b0a0f81341f90069500741dc4d67004e8f140d683d767d26253dd43f9899724c67716ed933dc633823451b90b988e40dc1",
+      "hash_meta": "e00a170835e6b232820344154170d094749dd939284b72ac633fc0d0290edc8d",
+      "seqno": 1787419
+    },
+    "service": {
+      "hostname": "peikos.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1512639622,
+  "expire_in": 504576000,
+  "prev": "9abe5f1471c48dd0d56ea4e445716a5a1b6865388e7bfb3cc6fb7d18b7b939c1",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/kgPTFo7Kia2TXUy2OH+db5teu+12sGeQ2n1WIC46PIKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmU0ODBmNGM1YTNiMmEyNmI2NGQ3NTMyZDhlMWZlNzViZTZkN2FlZmI1ZGFjMTllNDM2OWY1NTg4MGI4ZThmMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmU0ODBmNGM1YTNiMmEyNmI2NGQ3NTMyZDhlMWZlNzViZTZkN2FlZmI1ZGFjMTllNDM2OWY1NTg4MGI4ZThmMjBhIiwidWlkIjoiZThlNmMxYjk0NzhlNWYzNjg1YzJlODRkZGEzOWE0MTkiLCJ1c2VybmFtZSI6InBlaWtvcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMjYzOTQ1NSwiaGFzaCI6Ijg5MTMwOTQ3NzYzNzA1MmQxYTUwZmM1ZWExZmRlOWIwYTBmODEzNDFmOTAwNjk1MDA3NDFkYzRkNjcwMDRlOGYxNDBkNjgzZDc2N2QyNjI1M2RkNDNmOTg5OTcyNGM2NzcxNmVkOTMzZGM2MzM4MjM0NTFiOTBiOTg4ZTQwZGMxIiwiaGFzaF9tZXRhIjoiZTAwYTE3MDgzNWU2YjIzMjgyMDM0NDE1NDE3MGQwOTQ3NDlkZDkzOTI4NGI3MmFjNjMzZmMwZDAyOTBlZGM4ZCIsInNlcW5vIjoxNzg3NDE5fSwic2VydmljZSI6eyJob3N0bmFtZSI6InBlaWtvcy5uZXQiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNiJ9LCJjdGltZSI6MTUxMjYzOTYyMiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI5YWJlNWYxNDcxYzQ4ZGQwZDU2ZWE0ZTQ0NTcxNmE1YTFiNjg2NTM4OGU3YmZiM2NjNmZiN2QxOGI3YjkzOWMxIiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQL8fbyAAGlXDvx7DdZMGcIFrxEViZvEwNo6i0OE4/DKGkAniOSuCDldTr55hrLRyIEcm66J7GV2KF8d214YWPA6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDLn8KKbKjn4a4juQ5K3TZS8FzqzJO1qRVAMW0Ob1rK+aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/peikos
+
+
